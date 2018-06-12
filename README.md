@@ -1,6 +1,10 @@
 # Twitter-Bot
 Really simple [Twitter](https://twitter.com/) bot for educational purposes, written in [Python](https://www.python.org/), continually tested with [Travis CI](https://travis-ci.org/), deployed on [Heroku](https://heroku.com/).
 
+
+## Build:
+[![Build Status](https://travis-ci.org/Kilso4dev/py-twitter-bot.svg?branch=master)](https://travis-ci.org/Kilso4dev/py-twitter-bot)
+
 # 1. Twitter
 ## 1.1 Account anlegen
 Der Bot benötigt Zugang zu einem Twitter-Account
@@ -184,6 +188,3 @@ if random.random() > 0.5:
 else:
     print('klein')
 ```
-
-## Build:
-[![Build Status](https://travis-ci.org/Kilso4dev/py-twitter-bot.svg?branch=master)](https://travis-ci.org/Kilso4dev/py-twitter-bot)
