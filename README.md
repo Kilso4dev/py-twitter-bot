@@ -184,3 +184,6 @@ if random.random() > 0.5:
 else:
     print('klein')
 ```
+
+## Build:
+[![Build Status](https://travis-ci.org/Kilso4dev/py-twitter-bot.svg?branch=master)](https://travis-ci.org/Kilso4dev/py-twitter-bot)
